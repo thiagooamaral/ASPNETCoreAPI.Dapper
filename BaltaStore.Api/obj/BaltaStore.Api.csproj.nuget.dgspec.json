@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\BaltaStore\\BaltaStore.Api\\BaltaStore.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\BaltaStore\\BaltaStore.Api\\BaltaStore.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\BaltaStore\\BaltaStore.Api\\BaltaStore.Api.csproj",
+        "projectName": "BaltaStore.Api",
+        "projectPath": "C:\\dev\\BaltaStore\\BaltaStore.Api\\BaltaStore.Api.csproj",
+        "packagesPath": "C:\\Users\\Thiago Amaral\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\BaltaStore\\BaltaStore.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\dev\\BaltaStore\\NuGet.Config",
+          "C:\\Users\\Thiago Amaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

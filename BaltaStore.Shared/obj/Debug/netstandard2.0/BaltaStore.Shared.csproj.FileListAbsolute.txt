@@ -1,0 +1,8 @@
+C:\dev\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.deps.json
+C:\dev\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+C:\dev\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+C:\dev\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.csproj.CoreCompileInputs.cache
+C:\dev\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfoInputs.cache
+C:\dev\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfo.cs
+C:\dev\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.dll
+C:\dev\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.pdb

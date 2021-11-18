@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "projectName": "BaltaStore.Domain",
+        "projectPath": "C:\\dev\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Thiago Amaral\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\BaltaStore\\BaltaStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\dev\\BaltaStore\\NuGet.Config",
+          "C:\\Users\\Thiago Amaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\dev\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+        "projectName": "BaltaStore.Tests",
+        "projectPath": "C:\\dev\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+        "packagesPath": "C:\\Users\\Thiago Amaral\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\BaltaStore\\BaltaStore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\dev\\BaltaStore\\NuGet.Config",
+          "C:\\Users\\Thiago Amaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\dev\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+                "projectPath": "C:\\dev\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

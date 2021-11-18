@@ -1,0 +1,17 @@
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.deps.json
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.json
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.dev.json
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.dll
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+C:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+C:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfoInputs.cache
+C:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
+C:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
+C:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+C:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csprojResolveAssemblyReference.cache
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Domain.dll
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Shared.dll
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Domain.pdb
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Shared.pdb
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Infra.dll
+C:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Infra.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdroTN/HFRtr5rHmzWg/5D5zsE8kDoiDPqQgBYj/mi7YAKKDCo3EaP6BPhxuVdEuQ3yJK4tKj/l3UJdyWVtMow==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Amaral\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Thiago Amaral\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
